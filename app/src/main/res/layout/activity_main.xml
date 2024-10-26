@@ -51,15 +51,18 @@
     />
 
     <TimePicker
-        android:id="@+id/time"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:paddingTop="20dp"
         />
-    <TextureView
-        android:layout_width="300px"
-        android:layout_height="300px"
-        android:id="@+id/text"
-
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="about us"
+        android:gravity="center"
+        android:textSize="40dp"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
         />
+
 </LinearLayout>
