@@ -95,6 +95,12 @@
                 android:layout_weight="1"
                 android:text="button" />
         </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        />
+
 
 
 </LinearLayout>
